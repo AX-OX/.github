@@ -2,10 +2,13 @@
 
 # AXOX
 
+
 ### 데이터와 근거로 설계하는 기업의 AI 전환
 
 기업 AX 진단 · AI 도입 과제 선정 · 투자 로드맵 · 승인 기반 프로젝트 등록
 
+<img width="1624" height="981" alt="스크린샷 2026-10-26 오후 1 57 18" src="https://github.com/user-attachments/assets/dd4a64d8-a39d-4219-92f6-e80ccc1b3b5e" />
+<img width="1624" height="981" alt="스크린샷 2026-10-26 오후 2 02 19" src="https://github.com/user-attachments/assets/dd39a165-4d87-4cf3-b8d1-1472e51e7baf" />
 
 </div>
 
